@@ -27,3 +27,12 @@ It was developed as part of an interview preparation challenge to demonstrate cl
 
 ```bash
 dotnet run
+```
+
+## 🌐 Live Demo
+
+The API is live on Azure App Service:
+
+👉 [https://todoapi-tiago32.azurewebsites.net](https://todoapi-tiago32.azurewebsites.net)
+
+Visit `/swagger` for interactive API testing.
